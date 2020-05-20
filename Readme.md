@@ -7,7 +7,7 @@ In this project, there will be another option. If the customer question is about
 
 In Watson Discovery I have added ecobee3_userguide.
 
-Link of uploaded a demo video of this project in my youtube channel:https://youtu.be/yf--o7AYZHM
+Link of uploaded a demo video of this project in my youtube channel: https://youtu.be/yf--o7AYZHM
 
 Node_Red Dasboard link after deploying : https://node-red-efpnl.eu-gb.mybluemix.net/ui
 
